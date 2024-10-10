@@ -28,7 +28,7 @@ Este repositório contém um template de site desenvolvido para empresas e event
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/paintball-atv-template.git
+   git clone https://github.com/ricardoMartins07/paintball-atv-template.git
 
 ## Preview
 [Demo](http://paintball-bucket.s3-website.eu-west-2.amazonaws.com/)
